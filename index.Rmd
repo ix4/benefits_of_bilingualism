@@ -1,0 +1,171 @@
+---
+title: "World languages"
+subtitle: "The importance of multilingualism in the contemporary world"
+author: "Joseph V. Casillas, PhD"
+date: "Rutgers University<br>04-12-2019"
+output:
+  xaringan::moon_reader:
+    lib_dir: assets
+    css: ["hygge", "rutgers", "rutgers-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+background-color: black
+
+???
+
+- intro
+  - who I am
+  - what I do
+  - what Im going to talk about
+
+---
+background-image: url(./assets/img/ali.png)
+background-size: contain
+background-color: black
+
+---
+background-image: url(./assets/img/ali2.png)
+background-size: contain
+background-color: black
+
+???
+
+THis is a photograph of my daughter Alicia
+At the time she was about 8 months old
+This is an important time in a babies life for many reasons
+But one of the reasons that is most interesting to me has to do with language
+We've learned that babies have the ability to distinguish between all of the 
+possible sounds of the worlds languages
+This is really quite impressive
+
+- babies and bilingualism
+  - kuhl and colleagues summary
+  - cognitive flexibility to navigate multiple phonetic systems
+  - cognitive flexibility to navigate complex linguistic situations
+
+---
+background-image: url(https://cdn.the-scientist.com/assets/articleNo/36663/iImg/15248/d305ec2a-9f5a-4894-8cd3-a7c43bb0756b-brain-640.jpg)
+background-size: 950px
+background-position: 100% 50%
+class: bottom
+
+# The obvious(?) benefits of bilingualism
+
+---
+background-image: url(./assets/img/bilingual_advantage_1.png)
+background-size: contain
+background-position: 50% 50%
+class: title-slide-section-grey
+
+???
+
+- mention cognitive benefits, alzheimers etc.
+- mention these findings are often cited but not w/o controversy
+
+- cognitive benefits
+  - children
+  - adults
+
+---
+background-image: url(./assets/img/bilingual_advantage_2.png)
+background-size: contain
+background-position: 50% 50%
+class: title-slide-section-grey
+
+---
+background-image: url(./assets/img/bilingual_advantage_3.png)
+background-size: contain
+background-position: 50% 50%
+class: title-slide-section-grey
+
+---
+class: center, middle
+
+# Popular media may slightly exagerate the cognitive benefits of bilingualism...
+
+--
+
+### ...but there is evidence for possible cognitive/neurological advantages related to 
+executive funcion  
+attention span  
+multi-tasking  
+delayed onset of Alzheimers and dementia  
+reduced risk of stroke
+
+---
+background-image: url(https://cdn.the-scientist.com/assets/articleNo/36663/iImg/15248/d305ec2a-9f5a-4894-8cd3-a7c43bb0756b-brain-640.jpg)
+background-size: 950px
+background-position: 100% 50%
+class: bottom
+
+# The not-so-obvious benefits of bilingualism
+
+???
+
+- its not all cognitive
+  - intercultural learning
+  - access/jobs
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/intercultural_development/master/slides/index_files/figure-html/plot_scatter-1.png?token=ABqofGT3t39sR2nKuZprYE8pVwHi1924ks5ctHqSwA%3D%3D)
+background-size: contain
+
+???
+
+pre: access, fbi, career, angry
+post: perspective, cultural, connecting, conversation
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/intercultural_development/master/slides/index_files/figure-html/plot_stat_sum-1.png?token=ABqofJNPGjl91Pkk1utfjg7o0waDigPDks5ctHsJwA%3D%3D)
+background-size: contain
+
+---
+class: center, middle
+
+# It's not all cognitive
+
+???
+
+It might make you more open minded, understanding towards other cultures
+It gives you access to new perspectives on the world, life, other people
+
+
+
+---
+class: center, middle
+
+# What can you do? 
+
+### Some advice
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/general/memes/sucking2.png)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/jvcasillas/media/master/general/gifs/throw_into_pool.gif)
+background-size: contain
+
+---
+class: middle
+
+# What can you do? 
+
+.big[
+
+- Take advantage of what RU has to offer
+
+- Diverse language courses (L2 and linguistics, cogsci, psych)
+
+- Study abroad!
+
+- Language diversity in RU, NB, NJ... get out of your comfort zone and 
+get to know what's around you
+
+]
+
